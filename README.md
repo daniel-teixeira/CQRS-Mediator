@@ -1,2 +1,2 @@
 # CQRS-Mediator
- CQRS-Mediator
+ CQRS-Mediator Test
